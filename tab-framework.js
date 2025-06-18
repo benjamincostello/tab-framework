@@ -15,6 +15,9 @@ BENJAMIN TO-DO LIST / OUTSTANDING ISSUES
 
 */
 
+
+console.log("showing incremental change");
+
 // make some changes to the header
 $(".c_header_ribbon_inner.cr").append(
   '<div id="portal-title"><h1>Success Portal</h1></div><div id="portal-global"></div>'
